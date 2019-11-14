@@ -1,5 +1,18 @@
 # jsonrpcclient Change Log
 
+## 3.3.4 (10 Sep, 2019)
+
+- Package with license.
+- Support Python 3.8.
+
+## 3.3.3 (22 Jun, 2019)
+
+- Use faster method of jsonschema validation.
+
+## 3.3.2 (15 Jun, 2019)
+
+- Update jsonschema dependency to allow 3.x.
+
 ## 3.3.1 (19 Jan, 2019)
 
 - Fix sending lists or dictionaries as positional arguments. (#118)
